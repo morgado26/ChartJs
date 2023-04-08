@@ -1,0 +1,28 @@
+
+body {
+    background-color: rgb(187, 186, 186);
+}
+
+.titulo {
+    display: flex;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+}
+
+/* Não ta ficando no meio a palavra dashboard por algum motivo */
+
+.chart{
+display: flex;
+margin-top: 230px;
+justify-content: space-around;
+align-content: center;
+}
+
+.chart2{
+display: flex;
+margin-right: 200px;
+margin-top: 230px;
+justify-content: space-around;
+align-content: center;
+}
